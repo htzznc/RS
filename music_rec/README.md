@@ -9,9 +9,9 @@
 | ----------- | ----------- |----|
 
 
-
 和歌曲的详细信息
-|track_id	|title	song_id|	release|	artist_id	|artist_mbid|	artist_name|	duration|	artist_familiarity	|artist_hotttnesss	|year|	track_7digitalid|	shs_perf	|shs_work|
-| ----------- | ----------- |----| ----------- | ----------- |----| ----------- | ----------- |----| ----------- | ----------- |----| ----------- | ----------- |----|
+
+|track_id	|title	song_id|	release|	artist_id	|artist_mbid|	artist_name|	duration|	artist_familiarity	|artist_hotttnesss	|year|	track_7digitalid|	shs_perf	|shs_work
+| ----- | ----- |----| ----- | ----- |----| ----- | ----- |----| ----- | ----- |----| ----- | 
 
 ## GBDT+LR
