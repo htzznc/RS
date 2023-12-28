@@ -11,6 +11,7 @@
 
 # [音乐推荐](./music_rec/README.md)
 
+ItemCF, GBDT+LR 的实践
 （这里插一嘴，音乐推荐 spotify 算是鼻祖， 并且也发布了一些可以用作音乐推荐的工具包，有兴趣的可以去了解下spotify的发家之路。
 
 # DIN 论文阅读以及复现
@@ -27,6 +28,7 @@
 ## DeepWalk 构建 embedding
 
 ## Commirec-SA   多兴趣召回方法
+使用movie-Lens数据集，
 
 ## Wide & Deep
 使用了criteo的采样子数据集，这里有13个连续特征和26个类别特征。
@@ -44,3 +46,5 @@ deep侧就是一个3层带Relu的MLP
 然后将两侧的预测相加进行损失计算以及梯度回传。
 
 ## MMoE
+
+# DeepFM
