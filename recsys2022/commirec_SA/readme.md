@@ -8,8 +8,11 @@
 
 将用户行为序列输入 多兴趣提取模块  对多兴趣提取模块设置 K（兴趣向量的个数）
 $H^{d*n}$ n为序列长度 d为embedding_dim
+
 attention
+
 $$ A = softmax(W_2^T tanh(W_1H))^T $$
+
 A的维度为K*seq
 
 输入 -> 输出
